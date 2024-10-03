@@ -1,21 +1,19 @@
-# Scuffed-GTNH-Dark
-GT New Horizons: Dark theme for 2.5.1
+Disclaimer: This resource pack is far from finished; many guis are currently unchanged. 
 
-Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. 
+# GTNH Dark
+Darker yet darker... 
 
-Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
+A GT New Horizons: Dark theme for 2.7.X.
 
 ## Recommended Resource Packs
-This UI Resource Pack is developed by keeping compatibility with Unity and ZedTech in mind, which is why using the following resource packs is recommended:
-- [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10)
-- [Zedtech-New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons)
-- [Unity IC2-Backport](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport/files/2377036)
+Despite being developed with certain accompanying resource packs in mind; this GUI overhaul can be ran alone. I use:
 
-Make sure the load order in Minecraft is as follows:
-1. Scuffed-GTNH-Dark
-2. Zedtech-New-Horizons
-3. Unity IC2-Backport
-4. Unity
+- [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10),
+- [Unity - IC2 Backport](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport),
+- [Draconic Evolution 16x16 Redux](https://www.curseforge.com/minecraft/texture-packs/draconic-evolution-16x16-redux),
+- and [Wily's GTNH Resource Pack](https://github.com/Wilyb/Wily-bit-s-GTNH-tex),
+
+if you want pairing suggestions. [Zedtech: New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons) also looks nice, but has overlap with Wily's pack, which you'd likely have to resolve on your own (as do Unity and Wily's). 
 
 ## Texturing progress
 <details>
@@ -57,11 +55,21 @@ Make sure the load order in Minecraft is as follows:
 | Overall				  | 490/490 		   | 100%  	  |				|
 </details>
 
-Beta Roadmap: TBD
 
 # Credits
-A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their contributions.
+[Albi](https://github.com/Flanisch) for creating and developing the original "Scuffed-GTNH-Dark" resource pack.
 
-This resource pack uses and adapts some bits and pieces of works from the following projects:
-- [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) by [CyanideX](https://github.com/CyanideX)
-- [Zedtech-New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons) by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), [MCTian-mi](https://github.com/MCTian-mi) and [FyreofShadow](https://github.com/FyreofShadow)
+A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their contributions to the original resource pack.
+
+
+# Attributions
+## Unity
+- The [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) resource pack, by [CyanideX](https://github.com/CyanideX) (and many others).
+
+## Zedtech
+- The [Zedtech: New-Horizons](https://github.com/FyreofShadow/zedtech-new-horizons) resource pack, by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/), [MCTian-mi](https://github.com/MCTian-mi) and [FyreofShadow](https://github.com/FyreofShadow).
+
+## GTNH-Dark
+- The "other other" [dark UI fork](https://github.com/cargocats/GTNH-Dark) by [Cargocats (ceg)](https://github.com/cargocats):
+1. Baubles Expanded GUI and Icons (programmatic recolors from the original repository),
+2. Railcraft Fluid Tanks (recolors/redesigns taken from the original repository).
