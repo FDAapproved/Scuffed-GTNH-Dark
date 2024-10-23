@@ -30,7 +30,7 @@ mobsinfo.mobhandler.spawns_everywhere=§fSpawns everywhere
 mobsinfo.mobhandler.spawns_in=§fSpawns in %d places...
 mobsinfo.mobhandler.spawns_not_in=§fSpawns everywhere but %d places...
 
-mobsinfo.villagertradeshandler.name=§f 
+mobsinfo.villagertradeshandler.name=§f
 mobsinfo.villagertradeshandler.mod=§9§o
 mobsinfo.villagertradeshandler.chance=§fChance: %.2f%%
 mobsinfo.villagertradeshandler.real_chance=§fChance per level up: %.2f%%
