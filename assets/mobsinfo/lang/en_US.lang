@@ -8,8 +8,8 @@ mobsinfo.mobhandler.infernal_drops=§fInfernal drops
 mobsinfo.mobhandler.infernal_cannot=§fCannot spawn infernal
 mobsinfo.mobhandler.infernal_can=§fCan spawn infernal
 mobsinfo.mobhandler.infernal_always=§fAlways spawns infernal
-mobsinfo.mobhandler.mod=§fMod: 
-mobsinfo.mobhandler.max_health=§fMax health: 
+mobsinfo.mobhandler.mod=§9§o
+mobsinfo.mobhandler.max_health=§c§l
 mobsinfo.mobhandler.boss=§fBOSS
 mobsinfo.mobhandler.cannot_use_vial=§fCan't be in soul vial
 mobsinfo.mobhandler.chance=§fChance: %.2f%%
@@ -30,8 +30,8 @@ mobsinfo.mobhandler.spawns_everywhere=§fSpawns everywhere
 mobsinfo.mobhandler.spawns_in=§fSpawns in %d places...
 mobsinfo.mobhandler.spawns_not_in=§fSpawns everywhere but %d places...
 
-mobsinfo.villagertradeshandler.name=§fName: 
-mobsinfo.villagertradeshandler.mod=§fMod: 
+mobsinfo.villagertradeshandler.name=§f 
+mobsinfo.villagertradeshandler.mod=§9§o
 mobsinfo.villagertradeshandler.chance=§fChance: %.2f%%
 mobsinfo.villagertradeshandler.real_chance=§fChance per level up: %.2f%%
 
