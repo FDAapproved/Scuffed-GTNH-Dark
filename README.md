@@ -17,42 +17,42 @@ if you want pairing suggestions. [Zedtech: New-Horizons](https://github.com/Fyre
 
 ## Texturing progress
 <details>
-<summary>Alpha Roadmap</summary>
+<summary>Pre-mod Summary</summary>
   
 | Mod                     | Number of textures | Progress | Notes 		|
 |-------------------------|--------------------|----------|-------------|
-| Minecraft               | 22/22              | 100%     |				|
-| NotEnoughItems          | 5/5                | 100%     |				|
-| Gregtech                | 245/245            | 100%     | There are an additional 37 textures left, probably no texturing needed though |
-| Applied Energistics 2   | 42/42              | 100%     |				|
-| ModularUI				  | 24/24			   | 100%     |				|
-| Nutrition				  | 1/1 			   | 100%	  |				|
-| GT NEI Ore Plugin		  | 1/1 			   | 100%	  |				|
-| NEI Custom Diagram	  | 1/1 			   | 100%	  |				|
-| Tinker's Construct	  | 23/23 			   | 100%	  |				|
-| Forestry				  | 38/38 			   | 100%	  |				|
-| AE2FluidCrafting		  | 19/19 			   | 100% 	  |				|
-| AE2Stuff		  		  | 2/2 			   | 100%	  |				|
-| NEIAddons				  | 3/3 			   | 100%	  |				|
-| Blood Magic		  	  | 7/7 			   | 100%	  |				|
-| ArchitectureCraft		  | 1/1 			   | 100%	  |				|
-| Avaritia				  | 4/4 			   | 100%	  |				|
-| AvaritiaAddons		  | 2/2 			   | 100%	  |				|
-| Backpack		  		  | 1/1 			   | 100% 	  |				|
-| BattleGear 2		      | 2/2 			   | 100%	  |	There are an additional 10 textures, but they are super rarely used. Not a priority atm.|
-| Baubles				  | 1/1 			   | 100%	  |				|
-| BeeBetterAtBees		  | 1/1 			   | 100%	  |				|
-| Botania		  		  | 5/5 			   | 100%	  |				|
-| BetterQuesting		  | 1/1 			   | 100%	  |				|
-| Chisel				  | 8/8 			   | 100%	  |				|
-| IronChest				  | 6/6 			   | 100%	  |				|
-| MobsInfo				  | 2/2 			   | 100%	  |				|
-| TCNEIAdditions		  | 1/1 			   | 100%	  |				|
-| Thaumcraft 4		  	  | 15/15 			   | 100%	  |				|
-| structurelib			  | 1/1 			   | 100%	  |				|
-| AdventureBackpack		  | 3/3 			   | 100%	  |				|
-| AE2 Wireless ME Terminal| 3/3 			   | 100%	  |				|
-| Overall				  | 490/490 		   | 100%  	  |				|
+| Minecraft               | 22/22              | Full     |				|
+| NotEnoughItems          | 5/5                | Full     |				|
+| Gregtech                | 245/245            | Full(?)  | 37+ untouched textures, worth assessing which do/don't break visual cohesion. |
+| Applied Energistics 2   | 42/42              | Full     |				|
+| Mobsinfo                | 3/4                | Partial  |	Scroll bar still needs to be done.			|
+| ModularUI				  | 24/24			   | Full     |				|
+| Nutrition				  | 1/1 			   | Full	  |				|
+| GT NEI Ore Plugin		  | 1/1 			   | Full	  |				|
+| NEI Custom Diagram	  | 1/1 			   | Full	  |				|
+| Tinker's Construct	  | 23/23 			   | Full	  |				|
+| Forestry				  | 38/38 			   | Full	  |				|
+| AE2FluidCrafting		  | 19/19 			   | Full 	  |				|
+| AE2Stuff		  		  | 2/2 			   | Full	  |				|
+| NEIAddons				  | 3/3 			   | Full	  |				|
+| Blood Magic		  	  | 7/7 			   | Full	  |				|
+| ArchitectureCraft		  | 1/1 			   | Full	  |				|
+| Avaritia				  | 4/4 			   | Full	  |				|
+| AvaritiaAddons		  | 2/2 			   | Full	  |				|
+| Backpack		  		  | 1/1 			   | Full 	  |				|
+| BattleGear 2		      | 2/12 			   | Full	  |	Will probably be assessed as gui elements come up (so far, barely any). |
+| Baubles				  | 1/1 			   | Full	  |				|
+| BeeBetterAtBees		  | 1/1 			   | Full	  |				|
+| Botania		  		  | 5/5 			   | Full	  |				|
+| BetterQuesting		  | 1/1 			   | Full	  |				|
+| Chisel				  | 8/8 			   | Full	  |				|
+| IronChest				  | 6/6 			   | Full	  |				|
+| MobsInfo				  | 2/2 			   | Full	  |				|
+| TCNEIAdditions		  | 1/1 			   | Full	  |				|
+| Thaumcraft 4		  	  | 15/15 			   | Full	  |				|
+| structurelib			  | 1/1 			   | Full	  |				|
+| AdventureBackpack		  | 3/3 			   | Full	  |				|
+| AE2 Wireless ME Terminal| 3/3 			   | Full	  |				|
 </details>
 
 
