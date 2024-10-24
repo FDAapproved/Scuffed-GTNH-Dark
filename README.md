@@ -17,7 +17,7 @@ if you want pairing suggestions. [Zedtech: New-Horizons](https://github.com/Fyre
 
 ## Texturing progress
 <details>
-<summary>Pre-mod Summary</summary>
+<summary>Per-mod Summary</summary>
   
 | Mod                     | Number of textures | Progress | Notes 		|
 |-------------------------|--------------------|----------|-------------|
