@@ -14,3 +14,6 @@ container.chest=§fChest
 container.chestDouble=§fLarge Chest
 container.minecart=§fMinecart
 container.enderchest=§fEnder Chest
+
+
+entity.Villager.name=§fVillager
