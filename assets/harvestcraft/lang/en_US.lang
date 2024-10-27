@@ -11,16 +11,16 @@ harvestcraft.nei.garden.category=§fGarden Drops
 harvestcraft.nei.garden.found=§fFound in %s biomes.
 harvestcraft.nei.garden.berry=Forested, Hilly, Cold and Wet
 harvestcraft.nei.garden.desert=Sandy
-harvestcraft.nei.garden.grass=Plains biomes,\nbut not Cold
+harvestcraft.nei.garden.grass=Plains biomes, §obut not Cold
 harvestcraft.nei.garden.gourd=Plains and Forested
 harvestcraft.nei.garden.ground=Mountainous, Hilly, Mesa and Savanna
-harvestcraft.nei.garden.herb=Forested and Wet biomes,\nbut not Cold
-harvestcraft.nei.garden.leafy=Forested and Wet biomes,\nbut not Cold
-harvestcraft.nei.garden.mushroom=Forested and Wet biomes,\nbut not Cold or Mountainous
-harvestcraft.nei.garden.stalk=Plains, Forested and Wet biomes,\nbut not Cold
+harvestcraft.nei.garden.herb=Forested and Wet biomes, §obut not Cold
+harvestcraft.nei.garden.leafy=Forested and Wet biomes, §obut not Cold
+harvestcraft.nei.garden.mushroom=Forested and Wet biomes, §obut not Cold or Mountainous
+harvestcraft.nei.garden.stalk=Plains, Forested and Wet biomes, §obut not Cold
 harvestcraft.nei.garden.textile=Cold, Hilly and Wet
 harvestcraft.nei.garden.tropical=Wet and Hot
-harvestcraft.nei.garden.water=Oceanic and River biomes,\nbut not Cold
+harvestcraft.nei.garden.water=Oceanic and River biomes, §obut not Cold
 harvestcraft.nei.garden.nether=the Nether's
 
 # Blocks
