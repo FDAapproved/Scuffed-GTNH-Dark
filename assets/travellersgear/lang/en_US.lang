@@ -1,0 +1,83 @@
+# -- Items --
+item.TravellersGear.simpleGear.cloak.name=Cloak
+item.TravellersGear.simpleGear.belt.name=Belt
+item.TravellersGear.simpleGear.ringGold.name=Gold Ring
+item.TravellersGear.simpleGear.ringSilver.name=Silver Ring
+item.TravellersGear.simpleGear.pauldrons.name=Pauldrons
+item.TravellersGear.simpleGear.vambraces.name=Vambraces
+item.TravellersGear.simpleGear.title.name=Title Scroll
+# -- Blocks -- 
+tile.TravellersGear.armorstand.name=Armor Stand
+
+#-- GUI --
+TG.guitext.equipment=Equipment
+TG.guitext.lvl=Lvl
+TG.guitext.visDiscount=Vis Discount
+
+TG.guitext.preset=Presets
+TG.guitext.texture=Texture
+
+TG.guitext.rightclickToOpen=Rightclick to Open
+TG.guitext.linkInChat=Ctrl+Rightclick to link this in chat
+
+TG.guitext.showPlate=§fShow Floorplate
+TG.guitext.showTable=§fShow Table
+TG.guitext.showArmor0=§fShow Helmet
+TG.guitext.showArmor1=§fShow Chestplate
+TG.guitext.showArmor2=§fShow Leggings
+TG.guitext.showArmor3=§fShow Boots
+TG.guitext.showBaubles0=§fShow Amulet on table
+TG.guitext.showBaubles1=§fShow Ring 1 on table
+TG.guitext.showBaubles2=§fShow Ring 2 on table
+TG.guitext.showBaubles3=§fShow Belt on table
+TG.guitext.showTG0=§fShow Cloak on table
+TG.guitext.showTG1=§fShow Pauldrons on table
+TG.guitext.showTG2=§fShow Vambraces on table
+TG.guitext.showMari0=§fShow Ring on table
+TG.guitext.showMari1=§fShow Bracelet on table
+TG.guitext.showMari2=§fShow Necklace on table
+
+TG.guitext.renderBaubles0=§fRender Amulet on stand
+TG.guitext.renderBaubles1=§fRender Ring 1 on stand
+TG.guitext.renderBaubles2=§fRender Ring 2 on stand
+TG.guitext.renderBaubles3=§fRender Belt on stand
+TG.guitext.renderTG0=§fRender Cloak on stand
+TG.guitext.renderTG1=§fRender Pauldrons on stand
+TG.guitext.renderTG2=§fRender Vambraces on stand
+TG.guitext.style=§fStyle >
+
+TG.guitext.add=Add
+TG.guitext.rem=Remove
+TG.guitext.translation=Translation
+TG.guitext.rotation=Rotation
+TG.guitext.scale=Scale
+TG.guitext.hideWhenEquipped=Hide when equipped
+TG.guitext.rotateWithHead=Rotate with head
+					
+TG.chattext.showItem=%1$s shows Item: %2$s
+
+TG.desc.gearSlot.tg.0=Equipped in the §aCloak§7 slot
+TG.desc.gearSlot.tg.1=Equipped in the §aPauldron§7 slot
+TG.desc.gearSlot.tg.2=Equipped in the §aVambrace§7 slot
+TG.desc.gearSlot.tg.3=Equipped in the §aTitle§7 slot
+TG.desc.gearSlot.bauble.RING=Equipped in the §aRing§7 slot
+TG.desc.gearSlot.bauble.BELT=Equipped in the §aBelt§7 slot
+TG.desc.gearSlot.bauble.AMULET=Equipped in the §aAmulet§7 slot
+
+itemGroup.travellersgear=Traveller's Gear
+
+TG.keybind.openInv=Traveller's Gear Inventory
+TG.keybind.activeaAbilities=Traveller's Gear Active Abilities
+
+#-- Title --
+TG.personaltitle.treepuncher=Professional Treepuncher
+TG.personaltitle.titan=Prospector of Titan
+TG.personaltitle.librarian=The Librarian
+TG.personaltitle.bursar=The Bursar
+TG.personaltitle.archchancellor=The Archchancellor
+TG.personaltitle.justicar=Justicar
+TG.personaltitle.explorer=Striding Explorer
+TG.personaltitle.defender=Righteous Defender
+TG.personaltitle.seeker=Seeker of Treasure
+TG.personaltitle.boxFox=Fox in a Box
+TG.personaltitle.freshPrince=Fresh Prince
