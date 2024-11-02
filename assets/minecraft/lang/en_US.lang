@@ -1,3 +1,5 @@
+#Containers and their strings.
+
 container.inventory=§fInventory
 container.hopper=§fItem Hopper
 container.crafting=§fCrafting
@@ -15,5 +17,14 @@ container.chestDouble=§fLarge Chest
 container.minecart=§fMinecart
 container.enderchest=§fEnder Chest
 
+#Villager Trades
 
 entity.Villager.name=§fVillager
+
+#Rideable Mounts
+
+entity.Pig.name=§fPig
+entity.EntityHorse.name=§fHorse
+entity.horse.name=§fHorse
+entity.donkey.name=§fDonkey
+entity.mule.name=§fMule
