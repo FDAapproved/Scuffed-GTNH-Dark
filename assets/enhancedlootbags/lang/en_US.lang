@@ -4,9 +4,9 @@ enhancedlootbags.string.try_again=That didn't work. Please try again!
 enhancedlootbags.string.sorry_damaged=This LootBag seems to be damaged, sorry about that
 itemGroup.ELBTab=Enhanced LootBags
 
-enhancedlootbags.nei.category=LootBag
+enhancedlootbags.nei.category=LootBag Loot
 enhancedlootbags.nei.recipe.contains_trash=§fContains trash items: %s.
-enhancedlootbags.nei.recipe.is_trash=§fThis is a trash item bag.
+enhancedlootbags.nei.recipe.is_trash=§fThis is a trash-filled lootbag.
 enhancedlootbags.nei.recipe.drop_id=Drop ID: %s
 enhancedlootbags.nei.recipe.drop_group=Drop group: %s
 enhancedlootbags.nei.recipe.amount_exact=Amount: %s
